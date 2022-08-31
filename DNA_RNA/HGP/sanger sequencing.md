@@ -10,7 +10,7 @@ To review the general structure of DNA, please see Figure 2.
 
 Sanger sequencing can be performed manually or, more commonly, in an automated fashion via sequencing machine (Figure 1). Each method follows three basic steps, as described below.
 
-![Three Basic Steps of Automated Sanger Sequencing](/DNA/sanger-sequencing_steps_process_diagram.jfif)
+![Three Basic Steps of Automated Sanger Sequencing](sanger-sequencing_steps_process_diagram.jfif)
 
 ### Sanger Sequencing Steps
 
