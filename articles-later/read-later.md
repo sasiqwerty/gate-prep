@@ -1,0 +1,2 @@
+- [The RNA World as a Model System to Study the Origin of Life](<https://www.cell.com/current-biology/fulltext/S0960-9822(15)00681-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982215006818%3Fshowall%3Dtrue>)
+- [Frozen, but no accident – why the 20 standard amino acids were selected](https://febs.onlinelibrary.wiley.com/doi/10.1111/febs.13982)
