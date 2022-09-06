@@ -1,8 +1,9 @@
 # Just Structures
 
-1. [Just Structures](#just-structures)
+1. [\[\d\]\[\d\]\[\d\]Just Structures](#just-structures)
    1. [Nicotinamide adenine dinucleotide](#nicotinamide-adenine-dinucleotide)
    2. [Flavin Group](#flavin-group)
+   3. [S-Adenosyl methionine](#s-adenosyl-methionine)
 
 ## Nicotinamide adenine dinucleotide
 
@@ -30,3 +31,13 @@ The flavin group is capable of undergoing oxidation-reduction reactions, and can
 [Flavin Group](https://en.wikipedia.org/wiki/Flavin_group)
 
 ![Flavins](/all-structures/images-structure/330px-Flavin_group.svg.png)
+
+## S-Adenosyl methionine
+
+S-Adenosyl methionine (SAM), also known under the commercial names of SAMe, SAM-e, or AdoMet, is a common cosubstrate involved in methyl group transfers, transsulfuration, and aminopropylation. Although these anabolic reactions occur throughout the body, most SAM is produced and consumed in the liver. More than 40 methyl transfers from SAM are known, to various substrates such as nucleic acids, proteins, lipids and secondary metabolites. It is made from adenosine triphosphate (ATP) and methionine by methionine adenosyltransferase. SAM was first discovered by Giulio Cantoni in 1952.
+
+In bacteria, SAM is bound by the SAM riboswitch, which regulates genes involved in methionine or cysteine biosynthesis. In eukaryotic cells, SAM serves as a regulator of a variety of processes including DNA, tRNA, and rRNA methylation; immune response; amino acid metabolism; transsulfuration; and more. In plants, SAM is crucial to the biosynthesis of ethylene, an important plant hormone and signaling molecule.
+
+[S-Adenosyl methionine](https://en.wikipedia.org/wiki/S-Adenosyl_methionine)
+![S-Adenosyl methionine](/all-structures/images-structure/220px-S-adenosylmethionine.png)
+![S-Adenosyl methionine](/all-structures/images-structure/440px-S-adenosyl_methionine.png)
