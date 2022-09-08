@@ -8,7 +8,7 @@ The 20 standard amino acids encoded by the Genetic Code were adopted during the 
 
 Understanding how life arose is a fundamental problem of biology. Much progress has been made by adopting a synthetic and mechanistic perspective on originating life. We present a current view of the biochemistry of the origin of life, focusing on issues surrounding the emergence of an RNA World in which RNA dominated informational and functional roles. There is cause for optimism on this difficult problem: the prebiotic chemical inventory may not have been as nightmarishly complex as previously thought; the catalytic repertoire of ribozymes continues to expand, approaching the goal of self-replicating RNA; encapsulation in proto-cells provides evolutionary and biophysical advantages. Nevertheless, major issues remain unsolved, such as the origin of a genetic code. Attention to this field is particularly timely given the accelerating discovery and characterization of exoplanets.
 
-## De novo Synthesis (https://en.wikipedia.org/wiki/De_novo_synthesis)
+## [De novo Synthesis](https://en.wikipedia.org/wiki/De_novo_synthesis)
 
 De novo synthesis refers to the synthesis of complex molecules from simple molecules such as sugars or amino acids, as opposed to recycling after partial degradation. For example, nucleotides are not needed in the diet as they can be constructed from small precursor molecules such as formate and aspartate. Methionine, on the other hand, is needed in the diet because while it can be degraded to and then regenerated from homocysteine, it cannot be synthesized de novo.
 
